@@ -1,4 +1,5 @@
 ### Hi there 👋
+I'm a student in Yandex.Practicum. I'm learning the frontend development.
 
 - 🔭 I’m currently working on my pet project about F1
 - 🌱 I’m currently learning ReactJS
