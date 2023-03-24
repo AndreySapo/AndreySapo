@@ -7,7 +7,7 @@ I'm a student in Yandex.Practicum. I'm learning the frontend development.
 - 💬 Ask me about F1
 - 📫 How to reach me: by email
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I've played in Dota2 since 2012, but I've never had Solo MMR
+- ⚡ Fun fact: I've played in Dota2 since 2012, but I've never had Solo matchmaking rating
 
 <!-- - 👯 I’m looking to collaborate on ...-->
 <!--
